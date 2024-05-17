@@ -1,0 +1,22 @@
+{
+  "name": "247198_practice_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenducnh142/247198_Practice_02.git"
+  },
+  "author": "NguyenDucNhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenducnh142/247198_Practice_02/issues"
+  },
+  "homepage": "https://github.com/nguyenducnh142/247198_Practice_02#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
