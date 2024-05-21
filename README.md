@@ -37,4 +37,4 @@ URL: http://localhost:8080/user?username=user1
 docker run -d \`  
 --name test_container \`  
 -p 3000:8080 \`  
-test_image  
+gerjap/test_image  
