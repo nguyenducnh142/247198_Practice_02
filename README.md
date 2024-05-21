@@ -1,7 +1,7 @@
 Test
 
 POST:
-URL: http://localhost:8080/user
+URL: http://localhost:8080/user /n
 body:
 {
 "username": "adduser",
