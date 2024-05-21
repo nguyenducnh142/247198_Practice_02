@@ -1,15 +1,15 @@
 Test
 
 POST:
-URL: http://localhost:8080/user__
-body:__
-{__
-"username": "adduser",__
-"fullname": "nguoi duoc add",__
-"role": "Developer",__
-"project": ["prj3", "prj1"],__
-"activeYn": "Y"__
-}__
+URL: http://localhost:8080/user  
+body:  
+{  
+"username": "adduser",  
+"fullname": "nguoi duoc add",  
+"role": "Developer",  
+"project": ["prj3", "prj1"],  
+"activeYn": "Y"  
+}  
 
 GET:
 URL: http://localhost:8080/user?project=prj1
