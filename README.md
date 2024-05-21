@@ -33,6 +33,8 @@ DELETE:
 URL: http://localhost:8080/user?username=user1  
 
 ======================== Docker Test ========================
+
+Image's Link: https://hub.docker.com/r/gerjap/test_image/tags  
   
 docker run -d \`  
 --name test_container \`  
